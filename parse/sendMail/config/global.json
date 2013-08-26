@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "FollowUp": {
+            "applicationId": "WG3eDcI0BxNKYnbeitle6RmKOGrpPWyPs98XKswv", 
+            "masterKey": "ZtwSNdZVQKzoiUGHyndHZLrJU27kxLVPxh2U5coF"
+        }, 
+        "_default": {
+            "link": "FollowUp"
+        }
+    }
+}
